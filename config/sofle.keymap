@@ -43,21 +43,6 @@
             bindings = <&kp ESCAPE>;
             key-positions = <25 41>;
         };
-
-        toggle_L1 {
-            bindings = <&tog 1>;
-            key-positions = <36 53>;
-        };
-
-        toggle_L2 {
-            bindings = <&tog 2>;
-            key-positions = <36 56>;
-        };
-
-        toggle_default {
-            bindings = <&tog 0>;
-            key-positions = <0 11>;
-        };
     };
 
     behaviors {
