@@ -53,6 +53,11 @@
             bindings = <&tog 2>;
             key-positions = <36 56>;
         };
+
+        toggle_default {
+            bindings = <&tog 0>;
+            key-positions = <0 11>;
+        };
     };
 
     behaviors {
